@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f0cf4a61c1a187e172420edc4dd4cb91",
+    "revision": "574ea9619394fe82e3080b82d0e4927a",
     "url": "/music-player/index.html"
   },
   {
-    "revision": "7ec666a9dc1023690e3f",
-    "url": "/music-player/static/css/main.3c08ea31.chunk.css"
+    "revision": "8baa4e016f4a928ba8f4",
+    "url": "/music-player/static/css/main.9594ba42.chunk.css"
   },
   {
-    "revision": "a01e9d6d61b76fcb836f",
-    "url": "/music-player/static/js/2.3f419d59.chunk.js"
+    "revision": "6b85ed0888e03ca8ac89",
+    "url": "/music-player/static/js/2.14944cee.chunk.js"
   },
   {
     "revision": "d466ab9648f013dea081956fc7c904f3",
-    "url": "/music-player/static/js/2.3f419d59.chunk.js.LICENSE.txt"
+    "url": "/music-player/static/js/2.14944cee.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7ec666a9dc1023690e3f",
-    "url": "/music-player/static/js/main.76bca053.chunk.js"
+    "revision": "8baa4e016f4a928ba8f4",
+    "url": "/music-player/static/js/main.a0b7733c.chunk.js"
   },
   {
     "revision": "644ccf92994c2cd22e31",
