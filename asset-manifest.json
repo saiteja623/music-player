@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/music-player/static/css/main.5c571767.chunk.css",
-    "main.js": "/music-player/static/js/main.5900fc1c.chunk.js",
-    "main.js.map": "/music-player/static/js/main.5900fc1c.chunk.js.map",
+    "main.js": "/music-player/static/js/main.ab374ebc.chunk.js",
+    "main.js.map": "/music-player/static/js/main.ab374ebc.chunk.js.map",
     "runtime-main.js": "/music-player/static/js/runtime-main.2b992abc.js",
     "runtime-main.js.map": "/music-player/static/js/runtime-main.2b992abc.js.map",
-    "static/js/2.a55d5bc6.chunk.js": "/music-player/static/js/2.a55d5bc6.chunk.js",
-    "static/js/2.a55d5bc6.chunk.js.map": "/music-player/static/js/2.a55d5bc6.chunk.js.map",
+    "static/js/2.f698350a.chunk.js": "/music-player/static/js/2.f698350a.chunk.js",
+    "static/js/2.f698350a.chunk.js.map": "/music-player/static/js/2.f698350a.chunk.js.map",
     "index.html": "/music-player/index.html",
-    "precache-manifest.619629a87bc914d566738a6652d953b7.js": "/music-player/precache-manifest.619629a87bc914d566738a6652d953b7.js",
+    "precache-manifest.8f7024b3ee1b4158ccc774bc04cf0e51.js": "/music-player/precache-manifest.8f7024b3ee1b4158ccc774bc04cf0e51.js",
     "service-worker.js": "/music-player/service-worker.js",
     "static/css/main.5c571767.chunk.css.map": "/music-player/static/css/main.5c571767.chunk.css.map",
-    "static/js/2.a55d5bc6.chunk.js.LICENSE.txt": "/music-player/static/js/2.a55d5bc6.chunk.js.LICENSE.txt",
+    "static/js/2.f698350a.chunk.js.LICENSE.txt": "/music-player/static/js/2.f698350a.chunk.js.LICENSE.txt",
     "static/media/Bomdiggy.mp3": "/music-player/static/media/Bomdiggy.f27b15bd.mp3",
     "static/media/Butta Bomma.mp3": "/music-player/static/media/Butta Bomma.957119a0.mp3",
     "static/media/Emo Emo.mp3": "/music-player/static/media/Emo Emo.b9656229.mp3",
@@ -44,8 +44,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2b992abc.js",
-    "static/js/2.a55d5bc6.chunk.js",
+    "static/js/2.f698350a.chunk.js",
     "static/css/main.5c571767.chunk.css",
-    "static/js/main.5900fc1c.chunk.js"
+    "static/js/main.ab374ebc.chunk.js"
   ]
 }
